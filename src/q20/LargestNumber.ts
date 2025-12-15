@@ -6,4 +6,4 @@ for(let i = 2;i< input.length;i++){
         max = num;
     }
 }
-console.log(Number(max));
+console.log(String(max));
